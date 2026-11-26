@@ -6,7 +6,7 @@
 
 ### Your sound. Your brightness. Your rules.
 
-![Version](https://img.shields.io/badge/VERSION-0.9.2%20%2F%200.9.3%20BETA-ff69b4?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-1.0.0_Beta.2-ff69b4?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D4?style=for-the-badge)
 ![Portable](https://img.shields.io/badge/PORTABLE-YES-ff69b4?style=for-the-badge)
 ![Price](https://img.shields.io/badge/PRICE-FREE-ff69b4?style=for-the-badge)
