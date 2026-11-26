@@ -127,9 +127,7 @@ Die Anwendung befindet sich derzeit in der Beta-Phase. Feedback, Verbesserungsvo
 
 ## 📸 Screenshots
 
-<img width="435" height="642" alt="Captura de pantalla 2026-11-26 143339" src="https://github.com/user-attachments/assets/b28082c2-5fea-4b18-9567-1c124cabb56b" /><img width="436" height="926" alt="Captura de pantalla 2026-11-26 142845" src="https://github.com/user-attachments/assets/9c2db545-f0ac-4ea2-a94c-a5c3fc8f06dd" />
-
-
+<img width="435" height="642" alt="Captura de pantalla 2026-11-26 143339" src="https://github.com/user-attachments/assets/b28082c2-5fea-4b18-9567-1c124cabb56b" /><img width="436" height="926" alt="Captura de pantalla 2026-11-26 142845" src="https://github.com/user-attachments/assets/9c2db545-f0ac-4ea2-a94c-a5c3fc8f06dd" /><img width="410" height="624" alt="Captura de pantalla 2026-11-26 143453" src="https://github.com/user-attachments/assets/034c5acd-88c3-4e5e-ba5f-6b4ee6adea97" /><img width="426" height="911" alt="Captura de pantalla 2026-11-26 143443" src="https://github.com/user-attachments/assets/abb75456-8c82-4154-9ff1-b9327960b8c7" />
 
 ---
 
