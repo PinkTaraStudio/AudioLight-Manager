@@ -95,7 +95,7 @@ Desarrollada con la ayuda de inteligencia artificial.
 
 ### 📥 Descarga
 
-[![Descargar 0.9.2 Beta](https://img.shields.io/badge/Descargar-Windows%2011%20x64-E83499?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip) 
+[![Download for Windows 11](https://img.shields.io/badge/Download-Windows_11_x64-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/1.0.0/AudioLight-Manager-1.0.0-Beta.2-Windows-11-x64.zip)
 [![Download Windows 10](https://img.shields.io/badge/DOWNLOAD-WINDOWS_10_X64_BETA-ff1493?style=for-the-badge&logo=windows)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.3/AudioLight-Manager-0.9.3-Beta-Windows-10-x64.zip) 
 · [Notas de la versión](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/tag/v0.9.2)
 
