@@ -1,5 +1,6 @@
 
 <div align="center">
+<img width="2172" height="724" alt="Logotipos neón AudioLight y PinkTara" src="https://github.com/user-attachments/assets/35f8f7c6-f351-403e-97c3-478c054d453b" />
 
 # 🎧 AudioLight Manager
 
