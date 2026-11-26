@@ -37,7 +37,6 @@ Developed with the help of artificial intelligence.
 - 🌙 Software dimming for compatible screens and projectors.
 - 🎮 Custom profiles for gaming, movies, music and more.
 - 🎨 Customizable colors, themes and appearance.
-- 🌍 English, Spanish and German languages.
 - 📦 Portable application — no installation required.
 - 💗 Completely free and ad-free.
 - 🌍 Available in English, Spanish, Portuguese, French, German and Simplified Chinese.
@@ -75,7 +74,6 @@ Desarrollada con la ayuda de inteligencia artificial.
 - 🌙 Atenuación por software para pantallas y proyectores compatibles.
 - 🎮 Perfiles personalizados para juegos, películas, música y más.
 - 🎨 Personalización de colores, temas y apariencia.
-- 🌍 Disponible en español, inglés y alemán.
 - 📦 Aplicación portátil, sin necesidad de instalación.
 - 💗 Completamente gratuita y sin publicidad.
 - 🌍 Disponible en español, inglés, portugués, francés, alemán y chino simplificado.
@@ -113,7 +111,6 @@ Entwickelt mithilfe künstlicher Intelligenz.
 - 🌙 Software-Dimmung für kompatible Bildschirme und Projektoren.
 - 🎮 Individuelle Profile für Gaming, Filme, Musik und mehr.
 - 🎨 Anpassbare Farben, Designs und Benutzeroberfläche.
-- 🌍 Verfügbar auf Deutsch, Englisch und Spanisch.
 - 📦 Portable Anwendung — keine Installation erforderlich.
 - 💗 Komplett kostenlos und werbefrei.
 - 🌍 Verfügbar auf Deutsch, Englisch, Spanisch, Portugiesisch, Französisch und vereinfachtem Chinesisch.
