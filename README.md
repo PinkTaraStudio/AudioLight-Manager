@@ -56,6 +56,7 @@ Developed with the help of artificial intelligence.
 ### 📥 Download
 
 [![Download 0.9.2 Beta](https://img.shields.io/badge/Download-Windows%2011%20x64-E83499?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip) · [Release notes](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/tag/v0.9.2)
+[![Download Windows 10](https://img.shields.io/badge/DOWNLOAD-WINDOWS_10_X64_BETA-ff1493?style=for-the-badge&logo=windows)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.3/AudioLight-Manager-0.9.3-Beta-Windows-10-x64.zip)
 
 Available once the beta release is published.
 
@@ -93,6 +94,7 @@ Desarrollada con la ayuda de inteligencia artificial.
 ### 📥 Descarga
 
 [![Descargar 0.9.2 Beta](https://img.shields.io/badge/Descargar-Windows%2011%20x64-E83499?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip) · [Notas de la versión](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/tag/v0.9.2)
+[![Download Windows 10](https://img.shields.io/badge/DOWNLOAD-WINDOWS_10_X64_BETA-ff1493?style=for-the-badge&logo=windows)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.3/AudioLight-Manager-0.9.3-Beta-Windows-10-x64.zip)
 
 Disponible cuando se publique la beta.
 
@@ -130,6 +132,7 @@ Entwickelt mithilfe künstlicher Intelligenz.
 ### 📥 Download
 
 [![Version 0.9.2 Beta herunterladen](https://img.shields.io/badge/Download-Windows%2011%20x64-E83499?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip) · [Versionshinweise](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/tag/v0.9.2)
+[![Download Windows 10](https://img.shields.io/badge/DOWNLOAD-WINDOWS_10_X64_BETA-ff1493?style=for-the-badge&logo=windows)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.3/AudioLight-Manager-0.9.3-Beta-Windows-10-x64.zip)
 
 Verfügbar nach Veröffentlichung der Beta.
 
