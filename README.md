@@ -26,7 +26,7 @@ AudioLight Manager is the first project from PinkTara Studio, an independent cre
 This is just the beginning of a journey full of new ideas and future projects.
 
 ![Languages](https://img.shields.io/badge/Languages-6-ff69b4?style=for-the-badge)
-[![Download](https://img.shields.io/badge/⬇_DOWNLOAD-v0.9.2_BETA-ff1493?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip)
+[![Download for Windows 11](https://img.shields.io/badge/⬇_Download-Windows_11_x64-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v1.0.0-beta.2/AudioLight-Manager-1.0.0-Beta.2-Windows-11-x64.zip)
 ![Downloads](https://img.shields.io/github/downloads/PinkTaraStudio/AudioLight-Manager/total?style=for-the-badge&color=ff1493&label=Downloads)
 [![Download Windows 10](https://img.shields.io/badge/DOWNLOAD-WINDOWS_10_X64_BETA-ff1493?style=for-the-badge&logo=windows)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.3/AudioLight-Manager-0.9.3-Beta-Windows-10-x64.zip)
 
