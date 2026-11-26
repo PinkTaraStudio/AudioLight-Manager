@@ -15,6 +15,22 @@
 
 *Small apps, big ideas.*
 
+💡 The Story Behind AudioLight Manager
+
+The idea for AudioLight Manager came from a personal need. I wanted a simple and convenient application that combined two essential Windows features: audio management and screen brightness control.
+
+Instead of using multiple programs or constantly opening Windows settings, I wanted everything to be accessible from one place, directly from the system tray, next to the Windows clock.
+
+I also wanted to control the volume of individual applications, choose different audio output devices, and adjust the brightness of my monitor and projector without unnecessary complications.
+
+Another important aspect was customization. I wanted users to be able to choose their own colors, themes and appearance, making the application feel like part of their personal desktop setup.
+
+With the help of artificial intelligence, I turned this personal idea into a real application and decided to share it with everyone, completely free and without advertisements.
+
+AudioLight Manager is the first project from PinkTara Studio, an independent creative project focused on developing useful, accessible and customizable applications.
+
+This is just the beginning of a journey full of new ideas and future projects.
+
 ![Languages](https://img.shields.io/badge/Languages-6-ff69b4?style=for-the-badge)
 [![Download](https://img.shields.io/badge/⬇_DOWNLOAD-v0.9.2_BETA-ff1493?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip))
 
