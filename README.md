@@ -15,7 +15,7 @@
 
 *Small apps, big ideas.*
 
-[🇬🇧 English](#english) | [🇪🇸 Español](#español) | [🇩🇪 Deutsch](#deutsch)
+![Languages](https://img.shields.io/badge/Languages-6-ff69b4?style=for-the-badge)
 
 </div>
 
