@@ -27,6 +27,7 @@ This is just the beginning of a journey full of new ideas and future projects.
 
 ![Languages](https://img.shields.io/badge/Languages-6-ff69b4?style=for-the-badge)
 [![Download](https://img.shields.io/badge/⬇_DOWNLOAD-v0.9.2_BETA-ff1493?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip)
+![Downloads](https://img.shields.io/github/downloads/PinkTaraStudio/AudioLight-Manager/total?style=for-the-badge&color=ff1493&label=Downloads)
 
 </div>
 
