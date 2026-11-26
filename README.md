@@ -143,6 +143,9 @@ Die Anwendung befindet sich derzeit in der Beta-Phase. Feedback, Verbesserungsvo
 - Appearance customization.
 - Multilingual interface.
 - Portable application.
+- 🌍 Available in English, Spanish, Portuguese, French, German and Simplified Chinese.
+- 🌍 Disponible en español, inglés, portugués, francés, alemán y chino simplificado.
+- 🌍 Verfügbar auf Deutsch, Englisch, Spanisch, Portugiesisch, Französisch und vereinfachtem Chinesisch.
 
 ---
 
