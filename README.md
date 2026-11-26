@@ -156,7 +156,14 @@ Die Anwendung befindet sich derzeit in der Beta-Phase. Feedback, Verbesserungsvo
 
 ## 📸 Screenshots
 
-<img width="435" height="642" alt="Captura de pantalla 2026-11-26 143339" src="https://github.com/user-attachments/assets/b28082c2-5fea-4b18-9567-1c124cabb56b" /><img width="436" height="926" alt="Captura de pantalla 2026-11-26 142845" src="https://github.com/user-attachments/assets/9c2db545-f0ac-4ea2-a94c-a5c3fc8f06dd" /><img width="410" height="624" alt="Captura de pantalla 2026-11-26 143453" src="https://github.com/user-attachments/assets/034c5acd-88c3-4e5e-ba5f-6b4ee6adea97" /><img width="426" height="911" alt="Captura de pantalla 2026-11-26 143443" src="https://github.com/user-attachments/assets/abb75456-8c82-4154-9ff1-b9327960b8c7" />
+<img width="1448" height="992" alt="Captura de pantalla 2026-11-26 222300" src="https://github.com/user-attachments/assets/03ed2048-b68a-4503-941e-24d64b1172b3" />
+<img width="584" height="907" alt="Captura de pantalla 2026-11-26 222207" src="https://github.com/user-attachments/assets/45a9bf29-ecf7-4388-928f-c65ba92aae82" />
+<img width="596" height="918" alt="Captura de pantalla 2026-11-26 222213" src="https://github.com/user-attachments/assets/a9bdf469-29d3-47b9-ad37-dee390d21110" />
+<img width="596" height="923" alt="Captura de pantalla 2026-11-26 222219" src="https://github.com/user-attachments/assets/3535ad1c-5c0e-46e4-abda-3c8e4e310fa9" />
+<img width="1437" height="961" alt="Captura de pantalla 2026-11-26 222238" src="https://github.com/user-attachments/assets/bd22342e-bd01-4880-9e15-7df5d05fa6e0" />
+<img width="1555" height="1079" alt="Captura de pantalla 2026-11-26 222242" src="https://github.com/user-attachments/assets/dfe2cc76-b307-422d-b0a5-b9f05ee485f8" />
+<img width="1373" height="899" alt="Captura de pantalla 2026-11-26 222247" src="https://github.com/user-attachments/assets/dcb535a8-8065-4490-82aa-dc15000cd0ad" />
+
 
 ---
 
