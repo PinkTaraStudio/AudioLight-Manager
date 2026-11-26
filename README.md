@@ -15,7 +15,7 @@
 
 *Small apps, big ideas.*
 
-                                                       <b>💡 The Story Behind AudioLight Manager</b>
+ <b>💡 The Story Behind AudioLight Manager</b>
 
 The idea for AudioLight Manager came from a personal need. I wanted a simple and convenient application that combined two essential Windows features: audio management and screen brightness control.
 Instead of using multiple programs or constantly opening Windows settings, I wanted everything to be accessible from one place, directly from the system tray, next to the Windows clock.
