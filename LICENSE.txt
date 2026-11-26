@@ -1,0 +1,56 @@
+# PinkTara Studio Freeware License
+
+Copyright © 2026 PinkTara Studio. All rights reserved.
+
+## 1. Free Use
+
+AudioLight Manager is provided free of charge for personal and commercial use.
+
+Users may download, install and use the software without payment, subscriptions or advertising.
+
+## 2. Distribution
+
+Users may share the original, unmodified software package free of charge, provided that this license and all copyright notices remain included.
+
+Selling, renting or distributing modified versions of the software without prior written permission from PinkTara Studio is prohibited.
+
+## 3. Ownership
+
+AudioLight Manager is proprietary software. Its source code is not publicly available under this license.
+
+All rights not expressly granted by this license are reserved by their respective owners.
+
+## 4. Restrictions
+
+Except where permitted by applicable law, users may not:
+
+- Modify or reverse engineer the software.
+- Remove copyright or branding notices.
+- Sell or commercially redistribute the software.
+- Claim ownership or authorship of the software.
+
+## 5. Third-Party Components
+
+Any third-party components remain subject to their respective licenses. Nothing in this license overrides those terms.
+
+## 6. Beta Software
+
+Beta versions may contain bugs, incomplete features or compatibility issues.
+
+## 7. Disclaimer
+
+The software is provided "AS IS", without warranties of any kind, to the extent permitted by applicable law.
+
+PinkTara Studio shall not be liable for damages or losses arising from the use of the software, except where liability cannot lawfully be excluded.
+
+## 8. Acceptance
+
+By using the software, you agree to the terms of this license, subject to your rights under applicable law.
+
+---
+
+PinkTara Studio
+
+Small apps, big ideas.
+
+https://github.com/PinkTaraStudio
