@@ -16,7 +16,7 @@
 *Small apps, big ideas.*
 
 ![Languages](https://img.shields.io/badge/Languages-6-ff69b4?style=for-the-badge)
-[![Download](https://img.shields.io/badge/⬇_DOWNLOAD-v0.9.2_BETA-ff1493?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip)
+[![Download](https://img.shields.io/badge/⬇_DOWNLOAD-v0.9.2_BETA-ff1493?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip))
 
 </div>
 
