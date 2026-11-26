@@ -42,7 +42,9 @@ Developed with the help of artificial intelligence.
 
 ### 📥 Download
 
-Version 0.9.2 Beta — coming soon.
+[![Download 0.9.2 Beta](https://img.shields.io/badge/Download-Windows%2011%20x64-E83499?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip) · [Release notes](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/tag/v0.9.2)
+
+Available once the beta release is published.
 
 ### 💻 System requirements
 
@@ -77,7 +79,9 @@ Desarrollada con la ayuda de inteligencia artificial.
 
 ### 📥 Descarga
 
-Versión 0.9.2 Beta — próximamente.
+[![Descargar 0.9.2 Beta](https://img.shields.io/badge/Descargar-Windows%2011%20x64-E83499?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip) · [Notas de la versión](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/tag/v0.9.2)
+
+Disponible cuando se publique la beta.
 
 ### 💻 Requisitos del sistema
 
@@ -112,7 +116,9 @@ Entwickelt mithilfe künstlicher Intelligenz.
 
 ### 📥 Download
 
-Version 0.9.2 Beta — demnächst verfügbar.
+[![Version 0.9.2 Beta herunterladen](https://img.shields.io/badge/Download-Windows%2011%20x64-E83499?style=for-the-badge)](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/download/v0.9.2/AudioLight-Manager-0.9.2-Beta-Windows-x64.zip) · [Versionshinweise](https://github.com/PinkTaraStudio/AudioLight-Manager/releases/tag/v0.9.2)
+
+Verfügbar nach Veröffentlichung der Beta.
 
 ### 💻 Systemanforderungen
 
