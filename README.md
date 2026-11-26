@@ -40,6 +40,7 @@ Developed with the help of artificial intelligence.
 - 🌍 English, Spanish and German languages.
 - 📦 Portable application — no installation required.
 - 💗 Completely free and ad-free.
+- - 🌍 Available in English, Spanish, Portuguese, French, German and Simplified Chinese.
 
 ### 📥 Download
 
@@ -77,6 +78,7 @@ Desarrollada con la ayuda de inteligencia artificial.
 - 🌍 Disponible en español, inglés y alemán.
 - 📦 Aplicación portátil, sin necesidad de instalación.
 - 💗 Completamente gratuita y sin publicidad.
+- 🌍 Disponible en español, inglés, portugués, francés, alemán y chino simplificado.
 
 ### 📥 Descarga
 
@@ -114,6 +116,7 @@ Entwickelt mithilfe künstlicher Intelligenz.
 - 🌍 Verfügbar auf Deutsch, Englisch und Spanisch.
 - 📦 Portable Anwendung — keine Installation erforderlich.
 - 💗 Komplett kostenlos und werbefrei.
+- 🌍 Verfügbar auf Deutsch, Englisch, Spanisch, Portugiesisch, Französisch und vereinfachtem Chinesisch.
 
 ### 📥 Download
 
@@ -150,9 +153,6 @@ Die Anwendung befindet sich derzeit in der Beta-Phase. Feedback, Verbesserungsvo
 - Appearance customization.
 - Multilingual interface.
 - Portable application.
-- 🌍 Available in English, Spanish, Portuguese, French, German and Simplified Chinese.
-- 🌍 Disponible en español, inglés, portugués, francés, alemán y chino simplificado.
-- 🌍 Verfügbar auf Deutsch, Englisch, Spanisch, Portugiesisch, Französisch und vereinfachtem Chinesisch.
 
 ---
 
