@@ -40,7 +40,7 @@ Developed with the help of artificial intelligence.
 - 🌍 English, Spanish and German languages.
 - 📦 Portable application — no installation required.
 - 💗 Completely free and ad-free.
-- - 🌍 Available in English, Spanish, Portuguese, French, German and Simplified Chinese.
+- 🌍 Available in English, Spanish, Portuguese, French, German and Simplified Chinese.
 
 ### 📥 Download
 
