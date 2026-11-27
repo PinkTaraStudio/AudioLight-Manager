@@ -10,6 +10,7 @@
 ![Windows](https://img.shields.io/badge/WINDOWS-10%20%2F%2011-0078D4?style=for-the-badge)
 ![Portable](https://img.shields.io/badge/PORTABLE-YES-ff69b4?style=for-the-badge)
 ![Price](https://img.shields.io/badge/PRICE-FREE-ff69b4?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/PinkTaraStudio/AudioLight-Manager/total?style=for-the-badge&logo=github&logoColor=white&color=ff69b4&label=Downloads&cacheSeconds=3600)
 
 **Developed by PinkTara Studio 🐾**
 
