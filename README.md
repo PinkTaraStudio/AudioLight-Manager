@@ -157,14 +157,7 @@ Die Anwendung befindet sich derzeit in der Beta-Phase. Feedback, Verbesserungsvo
 
 ## 📸 Screenshots
 
-<img width="1448" height="992" alt="Captura de pantalla 2026-11-26 222300" src="https://github.com/user-attachments/assets/03ed2048-b68a-4503-941e-24d64b1172b3" />
-<img width="584" height="907" alt="Captura de pantalla 2026-11-26 222207" src="https://github.com/user-attachments/assets/45a9bf29-ecf7-4388-928f-c65ba92aae82" />
-<img width="596" height="918" alt="Captura de pantalla 2026-11-26 222213" src="https://github.com/user-attachments/assets/a9bdf469-29d3-47b9-ad37-dee390d21110" />
-<img width="596" height="923" alt="Captura de pantalla 2026-11-26 222219" src="https://github.com/user-attachments/assets/3535ad1c-5c0e-46e4-abda-3c8e4e310fa9" />
-<img width="1437" height="961" alt="Captura de pantalla 2026-11-26 222238" src="https://github.com/user-attachments/assets/bd22342e-bd01-4880-9e15-7df5d05fa6e0" />
-<img width="1555" height="1079" alt="Captura de pantalla 2026-11-26 222242" src="https://github.com/user-attachments/assets/dfe2cc76-b307-422d-b0a5-b9f05ee485f8" />
-<img width="1373" height="899" alt="Captura de pantalla 2026-11-26 222247" src="https://github.com/user-attachments/assets/dcb535a8-8065-4490-82aa-dc15000cd0ad" />
-
+<img width="1672" height="941" alt="AudioLight Manager_ Control Total del Sonido" src="https://github.com/user-attachments/assets/8f6a7b98-604c-425b-8478-dab9c567725a" />
 
 ---
 
